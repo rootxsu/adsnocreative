@@ -4,7 +4,7 @@
     "enabled": true,
     "imageUrl": "https://raw.githubusercontent.com/rootxsu/adsnocreative/refs/heads/main/ads1.png",
     "clickUrl": "https://google.com",
-    "waitTimeSeconds": 5,
+    "waitTimeSeconds": 10,
     "title": ".",
     "description": ".",
     "buttonText": "လေ့လာမည်"
