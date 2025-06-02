@@ -2,11 +2,11 @@
   "enabled": true,
   "openAd": {
     "enabled": true,
-    "imageUrl": "https://example.com/ads/open-ad.jpg",
-    "clickUrl": "https://t.me/your_channel",
+    "imageUrl": "https://raw.githubusercontent.com/rootxsu/adsnocreative/refs/heads/main/ads1.png",
+    "clickUrl": "https://google.com",
     "waitTimeSeconds": 5,
-    "title": "Join Our Telegram Channel",
-    "description": "Get the latest updates and exclusive content",
-    "buttonText": "Join Now"
+    "title": ".",
+    "description": ".",
+    "buttonText": "လေ့လာမည်"
   }
 }
