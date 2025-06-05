@@ -4,7 +4,7 @@
     "enabled": true,
     "imageUrl": "https://thumbs.dreamstime.com/b/mobile-phone-wallpaper-soft-focus-delicate-flower-amidst-blurred-orange-meadow-sunset-354016436.jpg",
     "clickUrl": "https://google.com",
-    "waitTimeSeconds": 10,
+    "waitTimeSeconds": 3,
     "title": ".",
     "description": ".",
     "buttonText": "OK"
