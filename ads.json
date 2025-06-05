@@ -2,11 +2,11 @@
   "enabled": true,
   "openAd": {
     "enabled": true,
-    "imageUrl": "https://raw.githubusercontent.com/rootxsu/adsnocreative/refs/heads/main/ads1.png",
+    "imageUrl": "https://thumbs.dreamstime.com/b/mobile-phone-wallpaper-soft-focus-delicate-flower-amidst-blurred-orange-meadow-sunset-354016436.jpg",
     "clickUrl": "https://google.com",
     "waitTimeSeconds": 10,
     "title": ".",
     "description": ".",
-    "buttonText": "လေ့လာမည်"
+    "buttonText": "OK"
   }
 }
