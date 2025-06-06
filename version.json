@@ -1,0 +1,9 @@
+{
+  "minVersion": "1.0.1",
+  "latestVersion": "1.1.0",
+  "updateTitle": "New Version Available!",
+  "updateImage": "https://example.com/update-image.jpg",
+  "apkDownloadUrl": "https://example.com/app-release.apk",
+  "externalDownloadUrl": "https://example.com/download",
+  "forceUpdate": true
+}
