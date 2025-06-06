@@ -5,5 +5,5 @@
   "updateImage": "https://example.com/update-image.jpg",
   "apkDownloadUrl": "https://example.com/app-release.apk",
   "externalDownloadUrl": "https://example.com/download",
-  "forceUpdate": true
+  "forceUpdate": false
 }
