@@ -1,13 +1,13 @@
 {
   "app": {
     "status": true,
-    "toolbar": true,
-    "navigation_drawer": true,
-    "geolocation": true,
+    "toolbar": false,
+    "navigation_drawer": false,
+    "geolocation": false,
     "cache": true,
     "open_link_in_external_browser": false,
     "zoom_controls": true,
-    "user_agent": "",
+    "user_agent": "MY_UA_10",
     "privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
     "more_apps_url": "https://play.109110.xyz/store/apps/",
     "redirect_url": ""
@@ -46,8 +46,8 @@
       "name": "Home",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/109110.xyz/content/uploads/images/webview/icons/home.png",
-      "url": "https://109110.xyz.github.io/webdroid/pages/light/home.html",
-      "url_dark": "https://109110.xyz.github.io/webdroid/pages/dark/home.html"
+      "url": "https://neonwebtoon.com",
+      "url_dark": "https://neonwebtoon.com"
     },
     {
       "name": "Portfolio",
